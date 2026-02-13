@@ -17,5 +17,5 @@ If this tool has ever helped you out of a tight spot, please consider buying me 
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImpulseRC/ImpulseRC_Driver_Fixer/releases/download/v1/ImpulseRC_Driver_Fixer.exe"><img src="img/download.png" /></a>
+  <a href="https://github.com/ImpulseRC/ImpulseRC_Driver_Fixer/releases/download/v1_forever/ImpulseRC_Driver_Fixer.exe"><img src="img/download.png" /></a>
 </p>
